@@ -1,6 +1,8 @@
 # Wordpress-Save-form-into-database-and-view-in-backend
 Wordpress, Save form data into database and retrieve in backend
 
+import SQL Database file "fix.sql"
+
 Here i have include codes which used to save forms data into database and retrieve it in admin dashboard.
 
 For Front end Customer form -> \wp-content\themes\illdy\customForm.php as a template name under "Request Page". Create a page "Customer Request" using that template.
